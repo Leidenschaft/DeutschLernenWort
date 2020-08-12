@@ -18,7 +18,7 @@ $(document).ready(function () {
     //add support for mobile here
     $("#audioImg").on("click", function () {
         var wordform = $("#stich_wort").html();        //from <h1> to get the wordform
-        var audio_path = "../audio/" + wordform + ".mp3";
+        var audio_path = "./audio/" + wordform + ".mp3";
         if (BrowsersType == "IE") {
             if ($("#BGSOUND").length) {
                 $("#BGSOUND").attr("src", audio_path);
