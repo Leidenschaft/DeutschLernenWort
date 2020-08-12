@@ -15,7 +15,7 @@
     </style>
     <bgsound src="" loop="1" id="BGSOUND"/>
 	</head>
-  <script type="text/javascript" src="../js/jquery-1.9.1.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
 	<script type="text/javascript" src="BufferSearch.js"></script>
 	<body ondblclick="GetSelection()">
     <h1>
