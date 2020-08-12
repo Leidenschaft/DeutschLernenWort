@@ -1,0 +1,6 @@
+[submodule "pictures"]
+	path = pictures
+	url = https://gitee.com/freewind201301/de_pictures.git
+[submodule "audio"]
+	path = audio
+	url = https://gitee.com/freewind201301/de_audio.git
