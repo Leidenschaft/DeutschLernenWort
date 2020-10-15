@@ -137,8 +137,7 @@
                         <th scope="row">ich</th>
                         <td><xsl:value-of select="Konjugation/Präsen/ich"/> </td>
                         <td><xsl:value-of select="Konjugation/Präteritum/ich"/></td>
-                        <td><xsl:value-of select="Konjugation/Perfekt/ich"/> </td>
-                   
+                        <td><xsl:value-of select="Konjugation/Perfekt/ich"/></td>
                     </tr>
                     <tr>
                         <th scope="row">du</th>
