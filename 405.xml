@@ -1,39 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE Entry SYSTEM "NounModel.dtd"><?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?><Entry category="Substantiv">
-<Stichwort Audio="true">Sekretär</Stichwort>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE Entry SYSTEM "NounModel.dtd">
+<?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?>
+<Entry category="Substantiv">
+<Stichwort>Sekretär</Stichwort>
+<Ausspache></Ausspache>
 <Einheit>4</Einheit>
-<Anteil>Text</Anteil>
-<Genus>der</Genus>
+<Anteil>2</Anteil>
 <Pluralform>Sekretäre</Pluralform>
-<GenitivSingular/>
-
 <zusammengesetzteWörter>
-	<KompositaCollection>
-		<_K/>
-		<K_/>
-	</KompositaCollection>
-	<abgeleiteteWörter/></zusammengesetzteWörter>
-
+<KompositaCollection>
+</KompositaCollection>
+<abgeleiteteWörter>
+</abgeleiteteWörter>
+</zusammengesetzteWörter>
 <Synonymegruppe>
-	<Sym/>
 </Synonymegruppe>
 <Antonymegruppe>
-	<Anm/>
 </Antonymegruppe>
-
 <Kollokationen>
-<K/>
 </Kollokationen>
-
 <AllgemeineErläuterungen>
-	<Eintrag>
-		<Chinesisch>秘书</Chinesisch>
-		<BeispielSammlung>
-			<Beispiel>
-				<Satz>Mein Vater ist Sekretär.</Satz>
-				<Übersetzung/>
-			</Beispiel>
-		</BeispielSammlung>
-	</Eintrag>
+<Eintrag>
+<Chinesisch>秘书</Chinesisch>
+<BeispielSammlung>
+<Beispiel>
+<Satz>Mein Vater ist Sekretär.</Satz>
+<Übersetzung>我的父亲是秘书。</Übersetzung>
+</Beispiel>
+</BeispielSammlung>
+</Eintrag>
 </AllgemeineErläuterungen>
-
 </Entry>
