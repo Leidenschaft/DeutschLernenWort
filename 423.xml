@@ -1,40 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE Entry SYSTEM "NounModel.dtd"><?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?><Entry category="Substantiv">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE Entry SYSTEM "NounModel.dtd">
+<?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?>
+<Entry category="Substantiv">
 <Stichwort>Sprite</Stichwort>
+<Ausspache></Ausspache>
 <Einheit>5</Einheit>
-<Anteil>Übungen</Anteil>
-<Genus>die</Genus>
+<Anteil>3</Anteil>
 <Pluralform>o.Pl.</Pluralform>
-<GenitivSingular/>
-
 <zusammengesetzteWörter>
-	<KompositaCollection>
-		<_K/>
-		<K_/>
-	</KompositaCollection>
-	<abgeleiteteWörter/></zusammengesetzteWörter>
-
+<KompositaCollection>
+</KompositaCollection>
+<abgeleiteteWörter>
+</abgeleiteteWörter>
+</zusammengesetzteWörter>
 <Synonymegruppe>
-	<Sym/>
 </Synonymegruppe>
 <Antonymegruppe>
-	<Anm/>
 </Antonymegruppe>
-
 <Kollokationen>
-<K/>
 </Kollokationen>
-
 <AllgemeineErläuterungen>
-	<Eintrag>
-		<Chinesisch>雪碧</Chinesisch>
-		<BeispielSammlung>
-			<Beispiel>
-				<Satz>Wir haben Sprite,Fanta und Tee. Was möchtet ihr denn?</Satz>
-				<Übersetzung/>
-			</Beispiel>
-		</BeispielSammlung>
-	</Eintrag>
+<Eintrag>
+<Chinesisch>雪碧</Chinesisch>
+<BeispielSammlung>
+<Beispiel>
+<Satz>Wir haben Sprite,Fanta und Tee. Was möchtet ihr denn?</Satz>
+<Übersetzung>我们有雪碧、芬达和茶。您想要哪一个？</Übersetzung>
+</Beispiel>
+</BeispielSammlung>
+</Eintrag>
 </AllgemeineErläuterungen>
-
 </Entry>
-

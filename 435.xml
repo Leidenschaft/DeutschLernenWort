@@ -1,39 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE Entry SYSTEM "NounModel.dtd"><?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?><Entry category="Substantiv">
-<Stichwort Audio="true">Suche</Stichwort>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE Entry SYSTEM "NounModel.dtd">
+<?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?>
+<Entry category="Substantiv">
+<Stichwort>Suche</Stichwort>
+<Ausspache></Ausspache>
 <Einheit>6</Einheit>
-<Anteil>Text</Anteil>
-<Genus>die</Genus>
+<Anteil>2</Anteil>
 <Pluralform>Suchen</Pluralform>
-<GenitivSingular/>
-
 <zusammengesetzteWörter>
-	<KompositaCollection>
-		<_K/>
-		<K_/>
-	</KompositaCollection>
-	<abgeleiteteWörter/></zusammengesetzteWörter>
-
+<KompositaCollection>
+</KompositaCollection>
+<abgeleiteteWörter>
+</abgeleiteteWörter>
+</zusammengesetzteWörter>
 <Synonymegruppe>
-	<Sym/>
 </Synonymegruppe>
 <Antonymegruppe>
-	<Anm/>
 </Antonymegruppe>
-
 <Kollokationen>
-<K/>
 </Kollokationen>
-
 <AllgemeineErläuterungen>
-	<Eintrag>
-		<Chinesisch>寻找</Chinesisch>
-		<BeispielSammlung>
-			<Beispiel>
-				<Satz>Der Informatiker sucht eine Wohnung.</Satz>
-				<Übersetzung/>
-			</Beispiel>
-		</BeispielSammlung>
-	</Eintrag>
+<Eintrag>
+<Chinesisch>寻找</Chinesisch>
+<BeispielSammlung>
+<Beispiel>
+<Satz>Der Informatiker sucht eine Wohnung.</Satz>
+<Übersetzung>这位电脑工程师在找住房。</Übersetzung>
+</Beispiel>
+</BeispielSammlung>
+</Eintrag>
 </AllgemeineErläuterungen>
-
 </Entry>
