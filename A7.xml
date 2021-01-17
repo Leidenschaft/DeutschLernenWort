@@ -26,8 +26,24 @@
 		<Chinesisch>大的，年长的</Chinesisch>
 		<BeispielSammlung>
 			<Beispiel>
-				<Satz>China ist groß. Mein Bruder ist genauso groß wie ich. Ich habe eine größer Wohnung als deine. Die Fäche von Russland ist am größten in Europa. Berlin ist die größte Stadt Deutschlands.</Satz>
-				<Übersetzung></Übersetzung>
+				<Satz>China ist groß.</Satz>
+				<Übersetzung>中国很大。</Übersetzung>
+			</Beispiel>
+			<Beispiel>
+				<Satz>Mein Bruder ist genauso groß wie ich.</Satz>
+				<Übersetzung>我的哥和我一样高大。</Übersetzung>
+			</Beispiel>
+			<Beispiel>
+				<Satz>Ich habe eine größer Wohnung als deine.</Satz>
+				<Übersetzung>我和你一样有一间大的房子。</Übersetzung>
+			</Beispiel>
+			<Beispiel>
+				<Satz>Die Fäche von Russland ist am größten in Europa.</Satz>
+				<Übersetzung>俄罗斯的面积是欧洲最大的。</Übersetzung>
+			</Beispiel>
+			<Beispiel>
+				<Satz>Berlin ist die größte Stadt Deutschlands.</Satz>
+				<Übersetzung>柏林是德国最大的城市。</Übersetzung>
 			</Beispiel>
 		</BeispielSammlung>
 	</Eintrag>
