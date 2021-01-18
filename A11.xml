@@ -26,9 +26,17 @@
 		<Chinesisch>早的</Chinesisch>
 		<BeispielSammlung>
 			<Beispiel>
-				<Satz>Es ist nicht mehr früh. Er kommt am frühsten zum Schule. Es ist noch früh.</Satz>
-				<Übersetzung></Übersetzung>
+				<Satz>Es ist nicht mehr früh.</Satz>
+				<Übersetzung>时候已经不早了。</Übersetzung>
 			</Beispiel>
+			<Beispiel>
+				<Satz>Er kommt am frühsten zum Schule.</Satz>
+				<Übersetzung>他来学校最早。</Übersetzung>
+			</Beispiel>
+			<Beispiel>
+				<Satz>Es ist noch früh.</Satz>
+				<Übersetzung>时间尚早。</Übersetzung>
+			</Beispiel>			
 		</BeispielSammlung>
 	</Eintrag>
 </AllgemeineErläuterungen>

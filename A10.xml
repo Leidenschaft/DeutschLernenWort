@@ -26,8 +26,12 @@
 		<Chinesisch>迟的，晚的</Chinesisch>
 		<BeispielSammlung>
 			<Beispiel>
-				<Satz>Es ist schon spät. Heute Ich komme am spätesten zum Schule.</Satz>
-				<Übersetzung></Übersetzung>
+				<Satz>Es ist schon spät.</Satz>
+				<Übersetzung>他已经迟到了。</Übersetzung>
+			</Beispiel>
+			<Beispiel>
+				<Satz>Heute Ich komme am spätesten zum Schule.</Satz>
+				<Übersetzung>今天我是到校最晚的。</Übersetzung>
 			</Beispiel>
 		</BeispielSammlung>
 	</Eintrag>

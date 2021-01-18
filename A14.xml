@@ -26,9 +26,17 @@
 		<Chinesisch>经常，大量</Chinesisch>
 		<BeispielSammlung>
 			<Beispiel>
-				<Satz>Thomas trinkt sehr viel Kaffee. Anna arbeitet ebenso viel wie Karin. Deutschland hat mehr Einwohner als die Schweiz.</Satz>
-				<Übersetzung></Übersetzung>
+				<Satz>Thomas trinkt sehr viel Kaffee.</Satz>
+				<Übersetzung>托马斯喝很多咖啡。</Übersetzung>
 			</Beispiel>
+			<Beispiel>
+				<Satz>Anna arbeitet ebenso viel wie Karin.</Satz>
+				<Übersetzung>安娜和 Karin 工作量一样。</Übersetzung>
+			</Beispiel>
+			<Beispiel>
+				<Satz>Deutschland hat mehr Einwohner als die Schweiz.</Satz>
+				<Übersetzung>德国比瑞士人口多。</Übersetzung>
+			</Beispiel>						
 		</BeispielSammlung>
 	</Eintrag>
 </AllgemeineErläuterungen>

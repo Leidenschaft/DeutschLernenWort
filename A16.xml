@@ -26,9 +26,13 @@
 		<Chinesisch>年老的，旧的</Chinesisch>
 		<BeispielSammlung>
 			<Beispiel>
-				<Satz>Ich bin 20 Jahre alt. Die Zeitung ist alt.</Satz>
-				<Übersetzung></Übersetzung>
+				<Satz>Ich bin 20 Jahre alt.</Satz>
+				<Übersetzung>我今年20岁了。</Übersetzung>
 			</Beispiel>
+			<Beispiel>
+				<Satz>Die Zeitung ist alt.</Satz>
+				<Übersetzung>报纸旧了。</Übersetzung>
+			</Beispiel>			
 		</BeispielSammlung>
 	</Eintrag>
 </AllgemeineErläuterungen>

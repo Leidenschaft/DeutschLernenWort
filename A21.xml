@@ -26,9 +26,13 @@
 		<Chinesisch>已经</Chinesisch>
 		<BeispielSammlung>
 			<Beispiel>
-				<Satz>Es ist schon Nacht. Es ist schon spät.</Satz>
-				<Übersetzung></Übersetzung>
+				<Satz>Es ist schon Nacht.</Satz>
+				<Übersetzung>已经到晚上了。</Übersetzung>
 			</Beispiel>
+			<Beispiel>
+				<Satz>Es ist schon spät.</Satz>
+				<Übersetzung>已经迟了。</Übersetzung>
+			</Beispiel>			
 		</BeispielSammlung>
 	</Eintrag>
 </AllgemeineErläuterungen>
