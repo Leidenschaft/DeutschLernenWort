@@ -26,9 +26,17 @@
 		<Chinesisch>亲爱的，可爱的</Chinesisch>
 		<BeispielSammlung>
 			<Beispiel>
-				<Satz>Das ist aber lieb! Ich gehe lieber walken als joggen. Als Kind war ,,Robison Crusoe'' mein liebstes Buch.</Satz>
+				<Satz>Das ist aber lieb!</Satz>
+				<Übersetzung>这太可爱了。</Übersetzung>
+			</Beispiel>
+			<Beispiel>
+				<Satz>Ich gehe lieber walken als joggen.</Satz>
 				<Übersetzung></Übersetzung>
 			</Beispiel>
+			<Beispiel>
+				<Satz>Als Kind war ,,Robison Crusoe'' mein liebstes Buch.</Satz>
+				<Übersetzung></Übersetzung>
+			</Beispiel>						
 		</BeispielSammlung>
 	</Eintrag>
 </AllgemeineErläuterungen>
