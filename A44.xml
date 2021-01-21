@@ -28,16 +28,21 @@
 			<Beispiel>
 				<Satz>Das ist aber lieb!</Satz>
 				<Übersetzung>这太可爱了。</Übersetzung>
-			</Beispiel>
+			</Beispiel>				
+		</BeispielSammlung>
+	</Eintrag>
+	<Eintrag>
+		<Chinesisch>喜欢的</Chinesisch>
+		<BeispielSammlung>
 			<Beispiel>
 				<Satz>Ich gehe lieber walken als joggen.</Satz>
-				<Übersetzung></Übersetzung>
+				<Übersetzung>比起慢跑，我更喜欢走路。</Übersetzung>
 			</Beispiel>
 			<Beispiel>
 				<Satz>Als Kind war ,,Robison Crusoe'' mein liebstes Buch.</Satz>
-				<Übersetzung></Übersetzung>
-			</Beispiel>						
-		</BeispielSammlung>
+				<Übersetzung>《鲁宾孙漂流记》是我孩童时代最喜欢的书。</Übersetzung>
+			</Beispiel>
+		</BeispielSammlung>		
 	</Eintrag>
 </AllgemeineErläuterungen>
 
