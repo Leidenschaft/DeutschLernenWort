@@ -4,28 +4,28 @@
 	<Anteil>Intentionen</Anteil>
 	<Konjugation>
 				<Präsen>
-          <ich/>
-          <du/>
+          <ich>spreche aus</ich>
+          <du>sprichst aus</du>
           <er_sie_es>spricht aus</er_sie_es>
-          <wir/>
-          <ihr/>
-          <sie_Sie/>
+          <wir>sprechen aus</wir>
+          <ihr>sprecht aus</ihr>
+          <sie_Sie>sprechen aus</sie_Sie>
         </Präsen>
 				<Präteritum>
-          <ich/>
-          <du/>
-          <er_sie_es/>
-          <wir/>
-          <ihr/>
-          <sie_Sie/>
+          <ich>sprach aus</ich>
+          <du>sprachst aus</du>
+          <er_sie_es>sprach aus</er_sie_es>
+          <wir>sprachen aus</wir>
+          <ihr>spracht aus</ihr>
+          <sie_Sie>sprachen aus</sie_Sie>
         </Präteritum>
-				<Perfekt hilfsverb="">
-          <ich/>
-          <du/>
+				<Perfekt hilfsverb="haben">
+          <ich>habe ausgesprochen</ich>
+          <du>hast ausgesprochen</du>
           <er_sie_es>hat ausgesprochen</er_sie_es>
-          <wir/>
-          <ihr/>
-          <sie_Sie/>
+          <wir>haben ausgesprochen</wir>
+          <ihr>habt ausgesprochen</ihr>
+          <sie_Sie>haben ausgesprochen</sie_Sie>
         </Perfekt>
 	</Konjugation>
 			
@@ -53,7 +53,7 @@
 					<BeispielSammlung>
 					<Beispiel>
 					<Satz>Ich spreche meine gute Wünsche aus.</Satz>
-            <Übersetzung></Übersetzung>
+            		<Übersetzung>我说出了我美好的祝愿。</Übersetzung>
 					</Beispiel>
 					</BeispielSammlung>
 					
