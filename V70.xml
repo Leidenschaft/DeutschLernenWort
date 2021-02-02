@@ -52,9 +52,13 @@
 					<Chinesisch>买，购买</Chinesisch>
 					<BeispielSammlung>
 					<Beispiel>
-					<Satz>Was möchten Sie denn kaufen? Die Studenten kaufen gern Bücher.</Satz>
-					<Übersetzung></Übersetzung>
+					<Satz>Was möchten Sie denn kaufen?</Satz>
+					<Übersetzung>您想买什么？</Übersetzung>
 					</Beispiel>
+					<Beispiel>
+						<Satz>Die Studenten kaufen gern Bücher.</Satz>
+						<Übersetzung>学生想买书。</Übersetzung>
+					</Beispiel>	
 					</BeispielSammlung>
 					
    				</Eintrag>
