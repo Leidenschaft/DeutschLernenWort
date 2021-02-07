@@ -51,10 +51,10 @@
 					
 					<Chinesisch>赠送</Chinesisch>
 					<BeispielSammlung>
-					<Beispiel>
-					<Satz/>
-					<Übersetzung></Übersetzung>
-					</Beispiel>
+						<Beispiel>
+							<Satz>Was willst du ihr denn schenken?</Satz>
+							<Übersetzung>你要送她什么？</Übersetzung>
+						</Beispiel>
 					</BeispielSammlung>
 					
    				</Eintrag>
