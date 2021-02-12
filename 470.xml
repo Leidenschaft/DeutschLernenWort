@@ -2,28 +2,22 @@
 <!DOCTYPE Entry SYSTEM "NounModel.dtd">
 <?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?>
 <Entry category="Substantiv">
-<Stichwort>Bürde</Stichwort>
-<Einheit>3</Einheit>
-<Anteil>2</Anteil>
-<Genus>die</Genus>
-<Pluralform>Bürden</Pluralform>
-<zusammengesetzteWörter>
-<KompositaCollection>
-</KompositaCollection>
-<abgeleiteteWörter>
-</abgeleiteteWörter>
-</zusammengesetzteWörter>
-<Synonymegruppe>
-</Synonymegruppe>
-<Antonymegruppe>
-</Antonymegruppe>
-<Kollokationen>
-</Kollokationen>
-<AllgemeineErläuterungen>
-<Eintrag>
-<Chinesisch>负荷</Chinesisch>
-<BeispielSammlung>
-</BeispielSammlung>
-</Eintrag>
-</AllgemeineErläuterungen>
+    <Stichwort>Bürde</Stichwort>
+    <Einheit>3</Einheit>
+    <Anteil>2</Anteil>
+    <Genus>die</Genus>
+    <Pluralform>Bürden</Pluralform>
+    <zusammengesetzteWörter>
+        <KompositaCollection></KompositaCollection>
+        <abgeleiteteWörter></abgeleiteteWörter>
+    </zusammengesetzteWörter>
+    <Synonymegruppe></Synonymegruppe>
+    <Antonymegruppe></Antonymegruppe>
+    <Kollokationen></Kollokationen>
+    <AllgemeineErläuterungen>
+        <Eintrag>
+            <Chinesisch>负荷</Chinesisch>
+            <BeispielSammlung></BeispielSammlung>
+        </Eintrag>
+    </AllgemeineErläuterungen>
 </Entry>
